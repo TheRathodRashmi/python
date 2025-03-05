@@ -1,0 +1,11 @@
+num1 = flot(input("Enter the 1st number for addition:"))
+num2 = flot(input("Enter the 2st number for addition:"))
+sum=num1+num2
+print(f" sum: {num1}+{num2}={sum}")
+
+
+''' output:
+Enter the 1st number for addition:5
+  Enter the 2nd number for addition:6
+sum:5.0+6.0=11.0
+'''
